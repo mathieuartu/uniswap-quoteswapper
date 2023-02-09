@@ -12,7 +12,7 @@
     "files": [
         "dist"
     ],
-    "description": "🦄 Get swap estimates and execute trades on Unis    wap programmatically",
+    "description": "🦄 Get swap estimates and execute trades on Uniswap programmatically",
     "author": "Mathieu Artu",
     "license": "MIT",
     "homepage": "https://github.com/mathieuartu/uniswap-quoteswapper",
