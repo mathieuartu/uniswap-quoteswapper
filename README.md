@@ -38,7 +38,7 @@ const uqs = new UniswapQuoteSwapper({
 })()
 ```
 
-MinimalAlgoWallet needs two things to work :
+UniswapQuoteSwapper needs two things to work :
 
--   Public or private algod node credentials
--   Your public address and mnemonic phrase in order to sign the transactions
+-   Public or private JSON-RPC url
+-   Your public and private key in order to sign the transactions
