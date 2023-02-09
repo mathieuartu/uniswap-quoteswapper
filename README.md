@@ -1,10 +1,10 @@
 # 🦄 UniswapQuoteSwapper
 
-![Unit tests](https://github.com/mathieuartu/algo-minimal-wallet/actions/workflows/unit-test.yml/badge.svg)
-![Lint](https://github.com/mathieuartu/algo-minimal-wallet/actions/workflows/lint.yml/badge.svg)
-![Build](https://github.com/mathieuartu/algo-minimal-wallet/actions/workflows/build.yml/badge.svg)
-[![npm version](https://img.shields.io/npm/v/algo-minimal-wallet/latest.svg)](https://www.npmjs.com/package/algo-minimal-wallet/v/latest)
-[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/algo-minimal-wallet/latest.svg)](https://bundlephobia.com/result?p=algo-minimal-wallet@latest)
+![Unit tests](https://github.com/mathieuartu/uniswap-quoteswapper/actions/workflows/unit-test.yml/badge.svg)
+![Lint](https://github.com/mathieuartu/uniswap-quoteswapper/actions/workflows/lint.yml/badge.svg)
+![Build](https://github.com/mathieuartu/uniswap-quoteswapper/actions/workflows/build.yml/badge.svg)
+[![npm version](https://img.shields.io/npm/v/uniswap-quoteswapper/latest.svg)](https://www.npmjs.com/package/uniswap-quoteswapper/v/latest)
+[![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/uniswap-quoteswapper/latest.svg)](https://bundlephobia.com/result?p=uniswap-quoteswapper@latest)
 
 A simple class to get swap estimates and execute trades on UniSwap programmaticaly
 
